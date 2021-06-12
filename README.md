@@ -70,5 +70,5 @@ customer shoppinhg list example
 COLLABORATORS:
 
 Stephan du Plooy: sdpphotography1@gmail.com
-Phillip Stewart
-Muhammed Zain
+Phillip Stewart (Github: phil-stew)
+Muhammed Zain: zahid267
