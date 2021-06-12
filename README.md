@@ -15,6 +15,19 @@ customers can add to cart after finsihed they can check
 
 Owner can login and check revenue and update stock and products
 
+TECHNOLOGIES USED:
+1. Node.js
+2. Materialize
+3. Sequelize
+4. MySQL
+5. Express
+6. Dotenv
+7. Express-handlebars
+8. Handlebars.js
+9. Bcrypt
+
+LISENCE: MIT
+
 INSTALLATION 
 
 this app is deploy though heroku, by click the link below you can 
@@ -53,3 +66,9 @@ when customer is shopping this is an example of the cart with items
 
 ![product list](./public/images/shop-list.png)
 customer shoppinhg list example 
+
+COLLABORATORS:
+
+Stephan du Plooy: sdpphotography1@gmail.com
+Phillip Stewart
+Muhammed Zain
